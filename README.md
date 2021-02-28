@@ -1,5 +1,9 @@
 # Clone Nubank - React Native
 
+<p align="center">
+  <img width="312" heigth="652" src="src/assets/to_readme/cloneNubank.mp4">
+</P>
+
 ## 📘 Sobre
 
 Clone do aplicativo do Nubank desenvolvido com React Native.
