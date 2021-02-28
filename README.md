@@ -1,7 +1,7 @@
 # Clone Nubank - React Native
 
 <p align="center">
-  <img width="312" heigth="652" src="src/assets/to_readme/cloneNubank.mp4">
+  <img width="312" heigth="652" src="src/assets/to_readme/cloneNubank.gif">
 </P>
 
 ## 📘 Sobre
