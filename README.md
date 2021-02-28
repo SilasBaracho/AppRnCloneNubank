@@ -18,7 +18,7 @@ Clone do aplicativo do Nubank desenvolvido com React Native. O layout foi desenv
 
 ```
 # Clonar Repositório
-https://github.com/SilasBaracho/appRnCloneNubank.git
+git clone https://github.com/SilasBaracho/appRnCloneNubank.git
 ```
 
 ```
