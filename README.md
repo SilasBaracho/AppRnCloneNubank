@@ -33,5 +33,5 @@ yarn android
 
 ```
 # Iniciando o App
-yarn android
+yarn start
 ```
