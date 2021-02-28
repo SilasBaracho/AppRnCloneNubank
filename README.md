@@ -6,7 +6,7 @@
 
 ## 📘 Sobre
 
-Clone do aplicativo do Nubank desenvolvido com React Native.
+Clone do aplicativo do Nubank desenvolvido com React Native. O layout foi desenvolvido com base no Pixel 2 XL.
 
 ## 🔧 Tecnologias utilizadas
 
